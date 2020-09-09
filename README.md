@@ -1,7 +1,7 @@
 # BasicCalculateProject
-Miniprject d'une calculate avec demarche TDD
+Miniprojet d'une calculatrice avec demarche TDD
 
-### Prérequis Visual Studio ou dotnet sdk
+### Prérequis Visual Studio ou dotnet sdk / biblihotèque dotnet standard
 
 VisualStudio:
 Ouvrir le projet avec Visual Studio et lancer les tests directement
