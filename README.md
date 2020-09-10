@@ -7,4 +7,4 @@ VisualStudio:
 Ouvrir le projet avec Visual Studio et lancer les tests directement
 
 dotnetdsk :
-placer vous sur le dossier de test et lancer la commande `dotnet test`
+placez vous sur le dossier de test et lancer la commande `dotnet test`
